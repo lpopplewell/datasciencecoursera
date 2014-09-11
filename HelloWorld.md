@@ -1,4 +1,4 @@
 ## Hello World
 
-*Laurel's first repo
-*Wibblywobbly whatever
+* Laurel's first repo
+* _Wibblywobbly_  __whatever__
